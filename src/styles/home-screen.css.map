@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,GAAG,CAAA;EACC,gBAAgB,EAAE,OAAgB;EAClC,MAAM,EAAE,GAAG,CAAC,KAAK,CAAC,OAAgB;CACrC",
+    "sources": [
+        "home-screen.scss"
+    ],
+    "names": [],
+    "file": "home-screen.css"
+}
